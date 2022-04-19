@@ -64,6 +64,6 @@ Components used:
 ## Contact
 Mail: enessah200@gmail.com\
 LinkedIn: [linkedin.com/in/enes-sahinn](https://www.linkedin.com/in/enes-sahinn/)\
-Project Link: [Java Projects](https://github.com/enes-sahinn/Arduino-Projects)
+Project Link: [Arduino Projects](https://github.com/enes-sahinn/Arduino-Projects)
 
 
