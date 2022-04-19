@@ -2,6 +2,14 @@
 
 This is a collection of Arduino projects.
 
+## Table of Contents
+
+* [5-bit LED Counter](#5-bit-led-counter)
+* [DHT11 Monitor](#dht11-monitor)
+* [Buzzer Controller](#buzzer-controller)
+* [Motion Sensor Light With Timer](#motion-sensor-light-with-timer)
+* [Contact](#contact)
+
 ## Projects
 
 ### [5-bit LED Counter](../master/5-bit-led-counter)
@@ -39,3 +47,23 @@ Components used:
 * Arduino Uno
 * Buzzer
 * Some resistors and wires
+
+### [Motion Sensor Light With Timer](../master/Motion-Sensor-Light-With-Timer)
+
+* *Project type: Arduino IDE (.ino)*
+
+This projects aims to create a light (represented via a LED) using “HC-SR501 Integrated Motion Sensor” as activation key and using “14 mm Seven Segment Display” to display remaining time until turning out the light.
+
+Components used:
+* Arduino Uno
+* HC-SR501 Integrated Motion Sensor
+* 14 mm Seven Segment Display
+* LED
+* Some resistors and wires
+
+## Contact
+Mail: enessah200@gmail.com\
+LinkedIn: [linkedin.com/in/enes-sahinn](https://www.linkedin.com/in/enes-sahinn/)\
+Project Link: [Java Projects](https://github.com/enes-sahinn/Arduino-Projects)
+
+
