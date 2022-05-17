@@ -8,6 +8,7 @@ This is a collection of Arduino projects.
 * [DHT11 Monitor](#dht11-monitor)
 * [Buzzer Controller](#buzzer-controller)
 * [Motion Sensor Light With Timer](#motion-sensor-light-with-timer)
+* [Light Sensor](#light-sensor)
 * [Contact](#contact)
 
 ## Projects
@@ -58,6 +59,18 @@ Components used:
 * Arduino Uno
 * HC-SR501 Integrated Motion Sensor
 * 14 mm Seven Segment Display
+* LED
+* Some resistors and wires
+
+### [Light Sensor](../master/Motion-Sensor-Light-With-Timer)
+
+* *Project type: Arduino IDE (.ino)*
+
+This projects aims to create an automatic light that activates when the environment gets dark enough. For this purpose use a LED to represent the light, a light sensor to detect environment light intensity (e.g. LDR 5mm Light Sensor) and Arduino IDE serial monitor to print out light sensor value and LED status.
+
+Components used:
+* Arduino Uno
+* LDR 5mm Light Sensor
 * LED
 * Some resistors and wires
 
