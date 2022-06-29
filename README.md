@@ -4,6 +4,7 @@ This is a collection of Arduino projects.
 
 ## Table of Contents
 
+* [Car-Parking-System](#car-parking-system)
 * [5-bit LED Counter](#5-bit-led-counter)
 * [DHT11 Monitor](#dht11-monitor)
 * [Buzzer Controller](#buzzer-controller)
@@ -12,6 +13,19 @@ This is a collection of Arduino projects.
 * [Contact](#contact)
 
 ## Projects
+
+### [Car Parking System](../master/car-parking-system)
+
+* *Project type: Arduino IDE (.ino)*
+
+A Automatic Car Parking System that keeps the number of free parking spaces inside and displays it to users.
+
+Components used:
+* Arduino Uno
+* 2 x IR Proximity Sensor
+* Servo Motor
+* 16x2 LCD i2c Display
+* Some resistors and wires
 
 ### [5-bit LED Counter](../master/5-bit-led-counter)
 
