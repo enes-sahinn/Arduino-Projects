@@ -27,6 +27,8 @@ Components used:
 * 16x2 LCD i2c Display
 * Some resistors and wires
 
+Youtube link: https://youtu.be/XbpgYhmXPFs
+
 ### [5-bit LED Counter](../master/5-bit-led-counter)
 
 * *Project type: Arduino IDE (.ino)*
