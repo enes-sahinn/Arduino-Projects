@@ -4,7 +4,7 @@ This is a collection of Arduino projects.
 
 ## Table of Contents
 
-* [Car Parking System](#Car-Parking-System)
+* [Car Parking System](#car-parking-system)
 * [5-bit LED Counter](#5-bit-led-counter)
 * [DHT11 Monitor](#dht11-monitor)
 * [Buzzer Controller](#buzzer-controller)
@@ -14,7 +14,7 @@ This is a collection of Arduino projects.
 
 ## Projects
 
-### [Car Parking System](../master/car-parking-system)
+### [Car Parking System](../master/Car-Parking-System)
 
 * *Project type: Arduino IDE (.ino)*
 
